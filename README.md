@@ -2,18 +2,18 @@
 
 ## Asset requirements
 
-For scene skies, we currently support two different major types of files: videos and images.
+For scene skies, we currently support both image and video assets.
 
-### Video requirements
-
-* Maximum size: 512MB
-* Acceptable file types: mp4.
-
-### Image requirements
+### Images
 
 * Currently there is no maximum size (likely to change)
 * Acceptable file types: `png`, `jpg`, and `jpeg`
 * All skies should be equirectangular-panoramic (equirect-pano) format, a common format supported by many cameras
+
+### Videos
+
+* Maximum size: 512MB
+* Acceptable file types: mp4.
 
 ## EditVR How-tos
 
